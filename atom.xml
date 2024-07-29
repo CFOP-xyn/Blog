@@ -128,9 +128,9 @@
     <link href="https://xynon.top/2023/03/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>https://xynon.top/2023/03/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-03-30T08:53:02.000Z</published>
-    <updated>2023-03-30T10:41:30.924Z</updated>
+    <updated>2024-07-29T08:51:33.748Z</updated>
     
-    <content type="html"><![CDATA[<p>一级标题不会啊</p><p>代码测试：<br><code>我是反引号``，我在左上角！</code><br><code>print(&quot;Hello World!&quot;)</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">我是高亮代码块</span><br></pre></td></tr></table></figure><p>图片测试：<br><img src="/article_imgs/AQi_ShiSan.png" alt="阿七和十三"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="还是想写一级标题"><a href="#还是想写一级标题" class="headerlink" title="还是想写一级标题"></a>还是想写一级标题</h2>]]></content>
+    <content type="html"><![CDATA[<p>一级标题不会啊</p><p>代码测试：<br><code>我是反引号``，我在左上角！</code><br><code>print(&quot;Hello World!&quot;)</code></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">我是高亮代码块</span><br></pre></td></tr></table></figure><p>图片测试：<br><img src="/my_imgs/Home_Page/AQi_ShiSan.png" alt="alt text"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="还是想写一级标题"><a href="#还是想写一级标题" class="headerlink" title="还是想写一级标题"></a>还是想写一级标题</h2>]]></content>
     
     
       
